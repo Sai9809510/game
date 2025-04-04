@@ -1,0 +1,56 @@
+body{
+    background-color: skyblue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.b{
+     height: 500px;
+     width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    gap:2px;
+    align-items: center;
+    justify-content: center;
+    gap:8px;
+}
+.a{
+    height: 150px;
+    width: 150px;
+  
+    
+    font-size: 100px;
+   
+    color:rgb(181, 11, 11);
+
+}
+.c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.d{
+    height: 50px;
+    width: 130px;
+   background-color: black;
+   color: white;
+}
+.winn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    margin-top: 20px;
+  
+   
+  }
+  
+  .winner {
+    color: green;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
